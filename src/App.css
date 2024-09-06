@@ -119,6 +119,10 @@
   margin-bottom: 10px;
 }
 
+.structur > div > h3 {
+  text-align: center;
+}
+
 .eduprocess {
   display: flex;
   flex-direction: column;
