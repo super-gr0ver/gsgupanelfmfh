@@ -104,13 +104,13 @@
 }
 
 .structur {
-  display: row;
-  flex-direction: column;
+  display: flex;
+  flex-direction: row;
 }
 
 .structur embed {
-  width: "700";
-  height: "800";
+  width: "700px";
+  height: "800px";
 }
 
 .structur a {
