@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import tg from "../img/socials/qr-tg.svg";
+// import tg from "../img/socials/qr-tg.svg";
 import vk from "../img/socials/qr-vk.svg";
 
 function SideMenu() {
