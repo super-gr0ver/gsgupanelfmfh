@@ -18,7 +18,7 @@ export function Structur() {
       ></iframe>
 
       <iframe
-        src="{pdf2}"
+        src="../img/structur/2.jpg"
         height="600px"
         width="500px"
         frameborder="0"
