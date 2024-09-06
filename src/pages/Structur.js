@@ -4,8 +4,6 @@ import fs from "fs";
 import list1 from "../img/structur/20ИНФ-о-51.pdf";
 import list2 from "../img/structur/20ФИ-о-51.pdf";
 
-import fs from "fs";
-
 const myFile = "../img/structur/20ИНФ-о-51.pdf";
 fs.readFile(myFile, "utf8", (err, txt) => {
   if (err) {
