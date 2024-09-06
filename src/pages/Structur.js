@@ -1,8 +1,25 @@
 import React from "react";
-// import fs from "fs";
+import fs from "fs";
 
 import list1 from "../img/structur/20ИНФ-о-51.pdf";
 import list2 from "../img/structur/20ФИ-о-51.pdf";
+
+import fs from "fs";
+
+const myFile = "../img/structur/20ИНФ-о-51.pdf";
+fs.readFile(myFile, "utf8", (err, txt) => {
+  if (err) {
+    return console.log(err);
+  }
+
+  const newTxt = `${txt}'\nAppended something!`;
+  fs.writeFile(myFile, newTxt, (err) => {
+    if (err) {
+      return console.log(err);
+    }
+    console.log("Appended text!");
+  });
+});
 
 const doc1 = list1;
 const doc2 = list2;
