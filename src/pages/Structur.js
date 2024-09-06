@@ -12,7 +12,8 @@ export function Structur() {
       <img src={pdf1} width="500" height="500" alt="vk-qr-code" />
       <img src={pdf2} alt="vk-qr-code" />
 
-      <embed type="pdf" src={pdf2} width="500" height="700" />
+      <embed type="application/pdf" src={pdf2} width="500" height="700" />
+      <embed type="x-pdf" src={pdf2} width="500" height="700" />
     </div>
   );
 }
