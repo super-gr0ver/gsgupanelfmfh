@@ -1,7 +1,7 @@
 import React from "react";
 
-import list1 from "../img/structur/20ИНФ-о-51.jpg";
-import list2 from "../img/structur/20ФИ-о-51.pdf";
+import list1 from "../img/structur/1.jpg";
+import list2 from "../img/structur/2.jpg";
 const pdf1 = list1;
 const pdf2 = list2;
 
