@@ -8,7 +8,7 @@ import list2 from "../img/structur/20ФИ-о-51.pdf";
 const dir = "../img/structur/";
 let filesInDir = 0;
 
-require("fs").readdir(dir, (err, files) => {
+fs.readdir(dir, (err, files) => {
   filesInDir = files.length;
 });
 console.log(filesInDir);
