@@ -32,22 +32,12 @@ export function Structur() {
 
       <div>
         <h1>Группа 20ИНФ-о-51</h1>
-        <embed
-          type="application/pdf"
-          src={`${doc1}`}
-          width="700"
-          height="800"
-        />
+        <embed type="application/pdf" src={`${doc1}`} />
       </div>
 
       <div>
         <h1>Группа 20ФИ-о-51</h1>
-        <embed
-          type="application/pdf"
-          src={`${doc2}`}
-          width="700"
-          height="800"
-        />
+        <embed type="application/pdf" src={`${doc2}`} />
       </div>
     </div>
   );

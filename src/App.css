@@ -108,6 +108,11 @@
   flex-direction: column;
 }
 
+.structur embed {
+  width: "700";
+  height: "800";
+}
+
 .structur a {
   font-size: 60px;
   width: fit-content;
