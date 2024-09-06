@@ -1,31 +1,12 @@
 import React from "react";
-import fs from "fs";
+// import fs from "fs";
 
 import list1 from "../img/structur/20ИНФ-о-51.pdf";
 import list2 from "../img/structur/20ФИ-о-51.pdf";
+// import list2 from "../img/structur/20ХИ-о-51.pdf";
 
 const doc1 = list1;
 const doc2 = list2;
-
-// Кол-во файлов в директории
-const fs = require("fs");
-
-fs.readFile("hello.txt", function (error, data) {
-  if (error) {
-    // если возникла ошибка
-    return console.log(error);
-  }
-  console.log(data.toString()); // выводим считанные данные
-});
-console.log("Асинхронное чтение файлов");
-
-// Массив файлов
-// const docs = [];
-// for (let i = 0; i < filesInDir; i++) {
-//   docs.push[`../img/structur/${i}.pdf`];
-// }
-// const pdf1 = list1;
-// const pdf2 = list2;
 
 export function Structur() {
   return (
