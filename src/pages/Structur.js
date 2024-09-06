@@ -8,7 +8,7 @@ const doc1 = list1;
 const doc2 = list2;
 
 // Кол-во файлов в директории
-const fs2 = require("fs");
+const fs2 = require(fs);
 const dir = "../img/structur/";
 let filesInDir = 0;
 
