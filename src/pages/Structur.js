@@ -9,24 +9,10 @@ export function Structur() {
   return (
     <div className="main-page main-container structur">
       {/* <a href="https://gukolomna.ru/studentu/schedule/">Расписание</a> */}
-      <img src={pdf1} width="100" height="100" alt="vk-qr-code" />
-      <img src={pdf2} width="100" height="100" alt="vk-qr-code" />
+      <img src={pdf1} width="500" height="500" alt="vk-qr-code" />
+      <img src={pdf2} alt="vk-qr-code" />
 
-      <iframe
-        src="{pdf1}"
-        height="600px"
-        width="500px"
-        frameborder="0"
-        scrolling="yes"
-      ></iframe>
-
-      <iframe
-        src="../img/structur/2.jpg"
-        height="600px"
-        width="500px"
-        frameborder="0"
-        scrolling="yes"
-      ></iframe>
+      <embed type="pdf" src={pdf2} width="500" height="700" />
     </div>
   );
 }
