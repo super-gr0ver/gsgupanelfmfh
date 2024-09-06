@@ -18,9 +18,6 @@ export function Structur() {
         frameborder="0"
         scrolling="yes"
       ></iframe>
-
-      <object data="../img/structur/20ФИ-о-51.pdf"></object>
-      <object data="../img/structur/20ХИ-о-51.pdf"></object>
     </div>
   );
 }
