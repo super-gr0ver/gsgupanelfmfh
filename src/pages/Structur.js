@@ -35,8 +35,8 @@ export function Structur() {
         <embed
           type="application/pdf"
           src={`${doc1}`}
-          width="500"
-          height="1000"
+          width="700"
+          height="800"
         />
       </div>
 
@@ -45,8 +45,8 @@ export function Structur() {
         <embed
           type="application/pdf"
           src={`${doc2}`}
-          width="500"
-          height="1000"
+          width="700"
+          height="800"
         />
       </div>
     </div>
