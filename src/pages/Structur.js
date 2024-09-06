@@ -5,11 +5,10 @@ import list1 from "../img/structur/20ИНФ-о-51.pdf";
 import list2 from "../img/structur/20ФИ-о-51.pdf";
 
 // Кол-во файлов в директории
-const fs = require("fs");
 const dir = "../img/structur/";
 let filesInDir = 0;
 
-fs.readdir(dir, (err, files) => {
+require("fs").readdir(dir, (err, files) => {
   filesInDir = files.length;
 });
 console.log(filesInDir);
