@@ -1,5 +1,4 @@
 import React from "react";
-import fs from "fs";
 
 import list1 from "../img/structur/20ИНФ-о-51.pdf";
 import list2 from "../img/structur/20ФИ-о-51.pdf";
