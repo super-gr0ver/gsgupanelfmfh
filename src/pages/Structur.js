@@ -8,14 +8,16 @@ const doc1 = list1;
 const doc2 = list2;
 
 // Кол-во файлов в директории
-const fs2 = require(fs);
-const dir = "../img/structur/";
-let filesInDir = 0;
+const fs = require("fs");
 
-fs2.readdir(dir, (err, files) => {
-  console.log(files);
-  console.log(files.length);
+fs.readFile("hello.txt", function (error, data) {
+  if (error) {
+    // если возникла ошибка
+    return console.log(error);
+  }
+  console.log(data.toString()); // выводим считанные данные
 });
+console.log("Асинхронное чтение файлов");
 
 // Массив файлов
 // const docs = [];
