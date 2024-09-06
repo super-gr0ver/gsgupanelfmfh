@@ -10,9 +10,9 @@ const dir = "../img/structur/";
 let filesInDir = 0;
 
 fs.readdir(dir, (err, files) => {
-  filesInDir = files.length;
+  console.log(files);
+  // filesInDir = files.length;
 });
-console.log(filesInDir);
 
 // Массив файлов
 const docs = [];
