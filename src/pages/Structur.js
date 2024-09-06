@@ -5,6 +5,7 @@ export function Structur() {
     <div className="main-page main-container structur">
       {/* <a href="https://gukolomna.ru/studentu/schedule/">Расписание</a> */}
       <iframe
+        title="20ИНФ-о-51"
         src="../img/structur/20ИНФ-о-51.pdf"
         height="600px"
         width="500px"
@@ -12,6 +13,7 @@ export function Structur() {
         scrolling="yes"
       ></iframe>
       <iframe
+        title="20ФИ-о-51"
         src="../img/structur/20ФИ-о-51.pdf"
         height="600px"
         width="500px"
