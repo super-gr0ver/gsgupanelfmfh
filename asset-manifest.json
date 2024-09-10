@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/gsgupanelfmfh/static/css/main.db34934f.css",
-    "main.js": "/gsgupanelfmfh/static/js/main.2533395d.js",
-    "static/media/22ИНФ-о-31.pdf": "/gsgupanelfmfh/static/media/22ИНФ-о-31.c0937a6c280809d7678e.pdf",
-    "static/media/20ХИ-о-51.pdf": "/gsgupanelfmfh/static/media/20ХИ-о-51.eb011ebc52acc6e05271.pdf",
-    "static/media/20ИНФ-о-51.pdf": "/gsgupanelfmfh/static/media/20ИНФ-о-51.0bff1f940472def1d95a.pdf",
-    "static/media/20ФИ-о-51.pdf": "/gsgupanelfmfh/static/media/20ФИ-о-51.10a8ec1ff1ae31a98c8c.pdf",
+    "main.js": "/gsgupanelfmfh/static/js/main.e513a783.js",
+    "static/media/22ИНФ-о-31.pdf": "/gsgupanelfmfh/static/media/22ИНФ-о-31.a992d27279a67e56909b.pdf",
+    "static/media/20ХИ-о-51.pdf": "/gsgupanelfmfh/static/media/20ХИ-о-51.2f367d1c5021aa3f62cc.pdf",
+    "static/media/20ФИ-о-51.pdf": "/gsgupanelfmfh/static/media/20ФИ-о-51.49c33babdf2461137eb7.pdf",
+    "static/media/20ИНФ-о-51.pdf": "/gsgupanelfmfh/static/media/20ИНФ-о-51.6e37a2e6f2660f9ad2e0.pdf",
     "static/media/3.jpg": "/gsgupanelfmfh/static/media/3.716005de86e6e496dbb8.jpg",
     "static/media/4.jpg": "/gsgupanelfmfh/static/media/4.b4c4cf3ba1b767d550fd.jpg",
     "static/media/7.jpg": "/gsgupanelfmfh/static/media/7.d0239213f9442a1742a4.jpg",
@@ -18,10 +18,10 @@
     "static/media/qr-vk.svg": "/gsgupanelfmfh/static/media/qr-vk.e840b4ca0e18e32160f5027d56c9f6c3.svg",
     "index.html": "/gsgupanelfmfh/index.html",
     "main.db34934f.css.map": "/gsgupanelfmfh/static/css/main.db34934f.css.map",
-    "main.2533395d.js.map": "/gsgupanelfmfh/static/js/main.2533395d.js.map"
+    "main.e513a783.js.map": "/gsgupanelfmfh/static/js/main.e513a783.js.map"
   },
   "entrypoints": [
     "static/css/main.db34934f.css",
-    "static/js/main.2533395d.js"
+    "static/js/main.e513a783.js"
   ]
 }
