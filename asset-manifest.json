@@ -1,8 +1,19 @@
 {
   "files": {
     "main.css": "/gsgupanelfmfh/static/css/main.db34934f.css",
-    "main.js": "/gsgupanelfmfh/static/js/main.e513a783.js",
+    "main.js": "/gsgupanelfmfh/static/js/main.596f594c.js",
+    "static/media/23ФА-о-21.pdf": "/gsgupanelfmfh/static/media/23ФА-о-21.89282da416e0e3f9e81a.pdf",
+    "static/media/23МА-о-21.pdf": "/gsgupanelfmfh/static/media/23МА-о-21.21db506acb53a3c8fe84.pdf",
+    "static/media/22ФА-о-31.pdf": "/gsgupanelfmfh/static/media/22ФА-о-31.2a248024b93ce1ea69e6.pdf",
+    "static/media/23БХ-о-21.pdf": "/gsgupanelfmfh/static/media/23БХ-о-21.6261506d52336e36de6f.pdf",
+    "static/media/23ИНФ-о-21.pdf": "/gsgupanelfmfh/static/media/23ИНФ-о-21.5a42447fb44d89272b41.pdf",
+    "static/media/22МА-о-31.pdf": "/gsgupanelfmfh/static/media/22МА-о-31.2a07ee10abbd32dddfc0.pdf",
+    "static/media/22ХИ-о-31.pdf": "/gsgupanelfmfh/static/media/22ХИ-о-31.df23bee3c25e77fb4eb9.pdf",
+    "static/media/24МИ-о-11.pdf": "/gsgupanelfmfh/static/media/24МИ-о-11.dfd8d80dddbb6b0424fa.pdf",
+    "static/media/24БХ-о-11.pdf": "/gsgupanelfmfh/static/media/24БХ-о-11.c7712eba9717acd63d94.pdf",
+    "static/media/24ИНФ-о-11.pdf": "/gsgupanelfmfh/static/media/24ИНФ-о-11.9052358a0a0144d625dc.pdf",
     "static/media/22ИНФ-о-31.pdf": "/gsgupanelfmfh/static/media/22ИНФ-о-31.a992d27279a67e56909b.pdf",
+    "static/media/24ФА-о-11.pdf": "/gsgupanelfmfh/static/media/24ФА-о-11.5b11f3105c86c5241832.pdf",
     "static/media/20ХИ-о-51.pdf": "/gsgupanelfmfh/static/media/20ХИ-о-51.2f367d1c5021aa3f62cc.pdf",
     "static/media/20ФИ-о-51.pdf": "/gsgupanelfmfh/static/media/20ФИ-о-51.49c33babdf2461137eb7.pdf",
     "static/media/20ИНФ-о-51.pdf": "/gsgupanelfmfh/static/media/20ИНФ-о-51.6e37a2e6f2660f9ad2e0.pdf",
@@ -18,10 +29,10 @@
     "static/media/qr-vk.svg": "/gsgupanelfmfh/static/media/qr-vk.e840b4ca0e18e32160f5027d56c9f6c3.svg",
     "index.html": "/gsgupanelfmfh/index.html",
     "main.db34934f.css.map": "/gsgupanelfmfh/static/css/main.db34934f.css.map",
-    "main.e513a783.js.map": "/gsgupanelfmfh/static/js/main.e513a783.js.map"
+    "main.596f594c.js.map": "/gsgupanelfmfh/static/js/main.596f594c.js.map"
   },
   "entrypoints": [
     "static/css/main.db34934f.css",
-    "static/js/main.e513a783.js"
+    "static/js/main.596f594c.js"
   ]
 }
