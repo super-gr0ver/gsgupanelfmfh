@@ -15,11 +15,14 @@ const getDirList = (filePath) => {
   const data = fs.readdirSync(filePath, "utf8");
   return data;
 };
+
 const pathToDir = "../img/structur/";
 const fileNames = getDirList(pathToDir);
 
 for (const fileName of fileNames) {
-  `<div><h3>Группа ${fileName}</h3><embed type="application/pdf" src=${pathToDir}/>${fileName}.jpg></div>`;
+  console.log(
+    `<div><h3>Группа ${fileName}</h3><embed type="application/pdf" src=${pathToDir}/>${fileName}.jpg></div>`
+  );
 }
 
 export function Structur() {
