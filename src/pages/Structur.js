@@ -1,5 +1,5 @@
 import React from "react";
-import fs from "fs";
+// import fs from "fs";
 
 import list1 from "../img/structur/20ИНФ-о-51.pdf";
 import list2 from "../img/structur/20ФИ-о-51.pdf";
@@ -35,17 +35,17 @@ const doc13 = list13;
 const doc14 = list14;
 const doc15 = list15;
 
-const getDirList = (filePath) => {
-  const data = fs.readdirSync(filePath, "utf8");
-  return data;
-};
+// const getDirList = (filePath) => {
+//   const data = fs.readdirSync(filePath, "utf8");
+//   return data;
+// };
 
-const pathToDir = "../img/structur/";
-const fileNames = getDirList(pathToDir);
+// const pathToDir = "../img/structur/";
+// const fileNames = getDirList(pathToDir);
 
-for (const fileName of fileNames) {
-  `<div><h3>Группа ${fileName}</h3><embed type="application/pdf" src=${pathToDir}/>${fileName}.jpg></div>`
-}
+// for (const fileName of fileNames) {
+//   `<div><h3>Группа ${fileName}</h3><embed type="application/pdf" src=${pathToDir}/>${fileName}.jpg></div>`
+// }
 
 export function Structur() {
   return (
