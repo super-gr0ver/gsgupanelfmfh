@@ -18,18 +18,13 @@ const getDirList = (filePath) => {
 const pathToDir = "../img/structur/";
 const fileNames = getDirList(pathToDir);
 
-// for (const fileName of fileNames) {
-//   `<div><h3>Группа ${fileName}</h3><embed type="application/pdf" src=${pathToDir}/>${fileName}.jpg></div>`;
-// }
+for (const fileName of fileNames) {
+  `<div><h3>Группа ${fileName}</h3><embed type="application/pdf" src=${pathToDir}/>${fileName}.jpg></div>`;
+}
 
 export function Structur() {
   return (
     <div className="main-page main-container structur">
-      <script>
-        for (const fileName of fileNames){" "}
-        {`<div><h3>Группа ${fileName}</h3><embed type="application/pdf" src=${pathToDir}/>${fileName}.jpg></div>`}
-      </script>
-
       {/* <a href="https://gukolomna.ru/studentu/schedule/">Расписание</a> */}
       {/* <embed type="application/pdf" src={pdf2} width="500" height="900" /> */}
 
