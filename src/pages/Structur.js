@@ -11,7 +11,7 @@ const doc2 = list2;
 const doc3 = list3;
 const doc4 = list4;
 
-const fs = require("fs");
+const fs = require("fs2");
 const getDirList = (filePath) => {
   const data = fs.readdirSync(filePath, "utf8");
   return data;
