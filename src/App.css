@@ -107,7 +107,9 @@
   display: flex;
   flex-direction: row;
 }
-
+embed {
+  display: block;
+}
 .structur embed {
   width: 500px;
   height: 600px;

@@ -55,8 +55,7 @@ export function Structur() {
       <div>
         <h3>Группа 20ИНФ-о-51</h3>
         <embed type="application/pdf" src={`${doc1}`} />
-      </div>{" "}
-      */}
+      </div>
       <div>
         <h3>Группа 20ФИ-о-51</h3>
         <embed type="application/pdf" src={`${doc2}`} />
