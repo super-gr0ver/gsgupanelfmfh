@@ -1,6 +1,6 @@
 export * from "./Abitur";
 export * from "./Contacts";
-export * from "./Docs";
+// export * from "./Docs";
 export * from "./EduCuality";
 export * from "./EduProcess";
 export * from "./Home";
@@ -8,5 +8,5 @@ export * from "./Info";
 export * from "./NotFound";
 export * from "./Projects";
 export * from "./Structur";
-export * from "./stubpage";
+// export * from "./stubpage";
 export * from "./Tech";

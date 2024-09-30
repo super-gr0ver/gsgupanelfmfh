@@ -57,6 +57,12 @@ import React from "react";
 
 export function EduCuality() {
   return (
-    <div className="main-page main-container structur">В разработке ...</div>
+    <div className="main-page main-container structur">
+      <h1>
+        <a href="https://gukolomna.ru/studentu/trudoustroystvo/">
+          Трудоустройство
+        </a>
+      </h1>
+    </div>
   );
 }

@@ -12,10 +12,14 @@ function SideMenu() {
         <NavLink to="abitur">О факультете</NavLink>
         <NavLink to="structur">Расписание</NavLink>
         <NavLink to="eduprocess">Учебный процесс</NavLink>
-        <NavLink to="docs">Документы</NavLink>
+        {/* <NavLink to="https://gukolomna.ru/sveden/document/">Документы</NavLink> */}
+        <a href="https://gukolomna.ru/sveden/document/">Документы</a>
         <NavLink to="projects">Проекты</NavLink>
         <NavLink to="tech">Технологии</NavLink>
-        <NavLink to="educuality">Трудоустройство</NavLink>
+        {/* <NavLink to="educuality">Трудоустройство</NavLink> */}
+        <a href="https://gukolomna.ru/studentu/trudoustroystvo/">
+          Трудоустройство
+        </a>
         <NavLink to="contact">Контакты</NavLink>
       </div>
       <div className="socials-container">
