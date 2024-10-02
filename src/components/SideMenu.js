@@ -9,11 +9,13 @@ function SideMenu() {
       <div className="main-nav">
         <NavLink to="/">Главная</NavLink>
         {/* <NavLink to="info">Расписание</NavLink> */}
+        <a href="https://www.gukolomna.ru/studentu/schedule/">Расписание</a>
         <NavLink to="abitur">О факультете</NavLink>
-        <NavLink to="structur">Расписание</NavLink>
+        {/* <NavLink to="structur">Расписание</NavLink> */}
         <NavLink to="eduprocess">Учебный процесс</NavLink>
         {/* <NavLink to="https://gukolomna.ru/sveden/document/">Документы</NavLink> */}
         <a href="https://gukolomna.ru/sveden/document/">Документы</a>
+
         <NavLink to="projects">Проекты</NavLink>
         <NavLink to="tech">Технологии</NavLink>
         {/* <NavLink to="educuality">Трудоустройство</NavLink> */}
