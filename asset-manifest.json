@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gsgupanelfmfh/static/css/main.1af2d05d.css",
-    "main.js": "/gsgupanelfmfh/static/js/main.22ef9b6f.js",
+    "main.js": "/gsgupanelfmfh/static/js/main.e9d66d43.js",
     "static/media/23ФА-о-21.pdf": "/gsgupanelfmfh/static/media/23ФА-о-21.89282da416e0e3f9e81a.pdf",
     "static/media/23МА-о-21.pdf": "/gsgupanelfmfh/static/media/23МА-о-21.21db506acb53a3c8fe84.pdf",
     "static/media/22ФА-о-31.pdf": "/gsgupanelfmfh/static/media/22ФА-о-31.2a248024b93ce1ea69e6.pdf",
@@ -36,10 +36,10 @@
     "static/media/qr-vk.svg": "/gsgupanelfmfh/static/media/qr-vk.4af2853e62b3271e0bd533704d7a1b5e.svg",
     "index.html": "/gsgupanelfmfh/index.html",
     "main.1af2d05d.css.map": "/gsgupanelfmfh/static/css/main.1af2d05d.css.map",
-    "main.22ef9b6f.js.map": "/gsgupanelfmfh/static/js/main.22ef9b6f.js.map"
+    "main.e9d66d43.js.map": "/gsgupanelfmfh/static/js/main.e9d66d43.js.map"
   },
   "entrypoints": [
     "static/css/main.1af2d05d.css",
-    "static/js/main.22ef9b6f.js"
+    "static/js/main.e9d66d43.js"
   ]
 }
